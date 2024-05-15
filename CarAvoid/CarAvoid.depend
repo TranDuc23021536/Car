@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1715749557 source:c:\users\ducal\onedrive\documents\github\gameproject\caravoid\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"Game.h"
+	<SDL_ttf.h>
+
+1715749557 c:\users\ducal\onedrive\documents\github\gameproject\caravoid\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+	"defs.h"
+	<vector>
+
+1715751226 c:\users\ducal\onedrive\documents\github\gameproject\caravoid\defs.h
+
+1714982346 c:\users\ducal\onedrive\documents\github\gameproject\caravoid\game.h
+
